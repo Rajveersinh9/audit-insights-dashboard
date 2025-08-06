@@ -1,0 +1,3 @@
+module,severity,failures
+Auth,Medium,3
+Docs,High,2

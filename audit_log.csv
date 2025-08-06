@@ -1,0 +1,9 @@
+timestamp,user_id,action,result,module,severity,location
+2025-08-01 10:01:12,U1023,Login,Success,Auth,Low,Toronto
+2025-08-01 10:05:47,U2045,File Access,Failure,Docs,High,Mississauga
+2025-08-01 10:06:21,U3051,Settings Change,Success,System,Medium,Remote
+2025-08-01 10:10:59,U2045,File Access,Failure,Docs,High,Mississauga
+2025-08-01 10:15:42,U1023,Login,Failure,Auth,Medium,Toronto
+2025-08-01 10:20:30,U1023,Login,Failure,Auth,Medium,Toronto
+2025-08-01 10:25:12,U4789,Data Export,Success,Reports,Low,Remote
+2025-08-01 10:30:00,U1023,Login,Failure,Auth,Medium,Toronto
